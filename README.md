@@ -7,7 +7,7 @@ Mobile Developer Lovers
 -----------------------
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [gilland.nafis.sutarda@outlook.com](mailto:gilland.nafis.sutarda@outlook.com)
+* ✉️  You can contact me at [gilland.nafis.sutarda@outlook.com](mailto:gilland.nafis@outlook.com)
 * 🧠  I'm learning Clean Architecture
 
 ### Experienced In :
